@@ -1,0 +1,4 @@
+framework module BiometricFramework_nbp {
+  header "BiometricFramework_nbp-Swift.h"
+  requires objc
+}
